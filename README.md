@@ -2,7 +2,7 @@
 
 ## List Colaboratory Notebooks
 
-### Neural Networks for Computer Vision, Time Series Forecasting, NLP, GANs, Reinforcement Learning by Instructor Lazy Programmer Team
+#### Neural Networks for Computer Vision, Time Series Forecasting, NLP, GANs, Reinforcement Learning by Instructor Lazy Programmer Team
 
 ---
 __Collection of google colaboratory notebooks from Tensorflow Bootcamp__
